@@ -7,11 +7,10 @@ You’ve learned to identify HTML elements on a page, identify their id and clas
 You’ve also learned to scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
 
 <h2>Deliverables</h2>
-- Deliverable 1: Scrape titles and preview text from Mars news articles.
-- Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
-
+<ul>Deliverable 1: Scrape titles and preview text from Mars news articles.</ul>
+<ul>Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.</ul>
 
 <h3>Support:</h3>
-- AskBCS Learning Assistant
-- ChatGPT
-- Xpert Learning Assistant
+<ul>AskBCS Learning Assistant</ul>
+<ul>ChatGPT</ul>
+<ul>Xpert Learning Assistant</ul>
